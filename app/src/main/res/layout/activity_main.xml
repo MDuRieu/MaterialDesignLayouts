@@ -17,4 +17,12 @@
         android:onClick="LaunchNavDrawer"
         android:text="@string/nav_button"
         />
+
+    <Button
+        android:id="@+id/transition_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="LaunchTransitions"
+        android:text="@string/transition_button"
+        />
 </LinearLayout>

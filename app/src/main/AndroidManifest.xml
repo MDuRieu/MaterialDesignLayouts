@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".NavDrawerActivity"/>
+        <activity android:name=".NavDrawerActivity" />
+        <activity android:name=".Transition.TransitionActivity"></activity>
     </application>
 
 </manifest>
